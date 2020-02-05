@@ -20,3 +20,5 @@
 [Git]()
 
 [FlyWay](https://flywaydb.org/getstarted/firststeps/maven)
+
+[Lombok](https://projectlombok.org/)
